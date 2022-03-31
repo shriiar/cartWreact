@@ -1,0 +1,14 @@
+.header{
+    cursor: pointer;
+}
+.header h1{
+    color: teal;
+}
+
+.header img{
+    transition: 0.4s;
+}
+
+.header img:hover{
+    transform: scale(1.050);
+}

@@ -1,0 +1,9 @@
+.link{
+    border: 0;
+    text-decoration: none;
+    color: teal;
+    font-size: 20px;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
